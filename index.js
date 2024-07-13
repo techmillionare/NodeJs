@@ -41,3 +41,5 @@
  // e.g. bulid command,package info,etc 
  // step 1 - npm init
  
+ const colors = require('colors')
+ console.log("hello".bgGreen);

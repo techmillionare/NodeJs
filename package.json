@@ -1,0 +1,22 @@
+{
+  "name": "nodejsbycodes_s",
+  "version": "1.0.0",
+  "description": "A Nodejs Learning Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code",
+    "step",
+    "By",
+    "step"
+  ],
+  "author": "dayanand mishra",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
