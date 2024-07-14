@@ -41,5 +41,11 @@
  // e.g. bulid command,package info,etc 
  // step 1 - npm init
  
- const colors = require('colors')
- console.log("hello".bgGreen);
+//  const colors = require('colors')
+//  console.log("hello".red);
+
+//  NodeJs -> Node.js is single-threaded when it comes to executing your JavaScript code.
+ //           Node.js is multi-threaded under the hood to handle I/O operations and provide non-blocking performance.
+
+        /*  DAY %5 */
+
